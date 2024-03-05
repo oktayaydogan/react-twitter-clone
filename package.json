@@ -32,7 +32,7 @@
     "@storybook/addon-actions": "^5.3.19",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^7.6.17",
     "@svgr/cli": "^5.4.0",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.3",
