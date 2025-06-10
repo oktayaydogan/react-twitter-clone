@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/oktayaydogan/react-twitter-clone#readme",
   "dependencies": {
-    "next": "^13.5.1",
+    "next": "^13.5.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
